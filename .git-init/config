@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "github-lp2cloud"]
+	url = ssh://github.com/lp2cloud/lp2cloud.com
+	fetch = +refs/heads/*:refs/remotes/github-lp2cloud/*
